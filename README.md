@@ -13,7 +13,7 @@
     </a> 
    
     <a href="https://github.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="linux" width="40" height="40" /> 
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="40" height="40" /> 
     </a> 
    
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
@@ -25,11 +25,11 @@
     </a> 
    
     <a href="https://www.java.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="linux" width="40" height="40" /> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" /> 
     </a> 
    
-    <a href="[https://www.java.com/](https://learn.microsoft.com/en-us/dotnet/csharp/)" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="linux" width="40" height="40" /> 
+    <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40" /> 
     </a> 
    
     <a href="https://python.org/" target="_blank" rel="noreferrer"> 
