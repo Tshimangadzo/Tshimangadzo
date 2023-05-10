@@ -36,7 +36,7 @@
 <h3 align="left">Connect with me:</h3>
 
 <div>
-    <a href="https://www.linkedin.com/in/coleen-kunene-442561148/" target="_blank">
+    <a href="https://www.linkedin.com/in/tshimangadzo-mudzanani-23a3b7235/" target="_blank">
         <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
     </a>
     <a href="https://tshimangadzo.github.io/" target="_blank">
